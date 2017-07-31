@@ -14,10 +14,11 @@ Entrada
 
 Condições
 
-	1- ano > 0
+	- ano > 0
 
 Classes Válidas
-
+	
+	1- ano > 0
 	2-ano%4 == 0 
 	3-ano%4 == 0 && ano%400 == 0
 	
